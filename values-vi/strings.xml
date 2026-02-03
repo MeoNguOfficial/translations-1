@@ -1377,12 +1377,12 @@ Nếu bạn cho phép TheoTown truy cập vào bộ nhớ ngoài, nó sẽ lưu 
     <string name="dialog_externalstorage_text">TheoTown cần quyền truy cập vào bộ nhớ ngoài để tiết kiệm tiến trình của bạn.</string>
     <string name="dialog_externalstorage_cancel">Hủy</string>
     <string name="dialog_externalstorage_retry">Thử lại</string>
-    <string name="notify_disaster_earthquake">Đang có động đất!</string>
-    <string name="notify_disaster_flooding">Thành phố dưới biển!</string>
-    <string name="notify_disaster_meteorite">Đá đang rơi xuống!</string>
+    <string name="notify_disaster_earthquake">Cả thành phố đang bật chế độ rung... nhưng mà là rung bần bật!</string>
+    <string name="notify_disaster_flooding">Thành phố sắp thành người cá hết rồi!</string>
+    <string name="notify_disaster_meteorite">Vũ trụ đang gửi 'quà' xuống, nhưng mà là quà nặng hàng nghìn tấn!</string>
     <string name="notify_disaster_nuke">Chúng ta có một vụ nổ bom hạt nhân ở đây!</string>
     <string name="notify_disaster_tornado">Có nhiều gió hơn ở đây</string>
-    <string name="notify_disaster_ufo">Người ngoài hành tinh tấn công!</string>
+    <string name="notify_disaster_ufo">Có khách quý từ vũ trụ ghé thăm, nhưng hình như họ không mang theo quà!</string>
     <string name="settings_download_static_files">Tải xuống các tập tin tĩnh</string>
     <string name="pluginerror_visitforum">Báo cáo lên diễn đàn</string>
     <string name="dialog_gameplay_title">Đăng thành phố</string>
